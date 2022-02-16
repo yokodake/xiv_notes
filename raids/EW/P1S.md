@@ -19,7 +19,9 @@
 
 # Phase 2
 1. `Intemperance`
-![](P1S_intemperance.png)
+
+<img src="P1S_intemperance.png" alt="Intemperance" style="max-width: 300px;"/>
+
 2. `Warder's Wrath`
 3. {R_AOE} `Shining Cells`
 4. `Aetherflail` (ball+scythe || chakram+scythe)

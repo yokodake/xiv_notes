@@ -16,15 +16,19 @@
   * `Aureole` = {get on side} MASSIVE AOE behind and front
   * `Lateral Aureole` = {get behind} MASSIVE AOE on sides
 
-{R_AOE} `Hero's Radiance` > {Stack} `Shining Saber` > **Crystallize** >
-{R_AOE} `Radiance` / {TB} `Scorn` > random **Aureole** > **Crystallize** >
-{TB} / {R_AOE} > random **Aureole** > **Crystallize**
+1. {R_AOE} `Hero's Radiance` *(happens 20-25s in fight, pre-pull Succor will soak it)*
+2. {Stack} `Shining Saber`
+3. **Crystallize** > {R_AOE} `Radiance` / {TB} `Scorn` > random **Aureole** > 
+4. **Crystallize** > {TB} / {R_AOE} > random **Aureole** 
+5. **Crystallize** *(always swords + water/earth ??)*
 
 ## Phase 2 (Adds + Crystals)
-**Tanks** should tank adds OPPOSITE to shining crystals and raid
-**dps** should destroy shining crystals first
-**healers** beware dmg on tank is high
-After crystals destroyed: massive {R_AOE} (99% meter = 25k dmg)
+small {R_AOE} at beginning + big {R_AOE} at end
+* **Tanks** should tank adds OPPOSITE to shining crystals and raid
+* **dps** should destroy shining crystals first
+* **healers** beware dmg on tank is high
+After crystals destroyed: massive {R_AOE} (99% meter = 25k dmg)  
+*NOTE: the phase lasts a little more than 90s, so using big CD for first {R_AOE} is okay, as it will be available for the end*
 
 ## Phase 3
 {R_AOE} `Halo`
@@ -52,4 +56,4 @@ repeat of mechanics from <a>Phase 1</a> + others:
 4. {TB_Shared} tanks should stack together.
 5. 4 light waves: **CENTER is safe**
 phase repeats before enrage
-
+if {LHP_Stack}`Water Crystallize` + `Shining Saber` => `Shining Saber` will hit first.

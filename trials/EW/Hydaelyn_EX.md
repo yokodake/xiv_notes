@@ -42,9 +42,7 @@ After crystals destroyed: massive {R_AOE} (99% meter = 25k dmg)
 repeat of mechanics from <a>Phase 1</a> + others:
 * {TB} `Hero's Sundering`
 * `Parhelion`: Get between 1st and 2nd chakram throw. {Healer 1} stacks in middle & {Healer 2} stacks far on edge. After **Water** run into 1st chakram throw line.
-
-*(immediately after)*
-* `Aureole`
+* *(immediately after)* `Aureole`
 
 ## Phase 5
 ### Lightwave 2

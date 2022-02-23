@@ -28,7 +28,8 @@ small {R_AOE} at beginning + big {R_AOE} at end
 * **dps** should destroy shining crystals first
 * **healers** beware dmg on tank is high
 After crystals destroyed: massive {R_AOE} (99% meter = 25k dmg)  
-*NOTE: the phase lasts a little more than 90s, so using big CD for first {R_AOE} is okay, as it will be available for the end*
+*NOTE: the phase lasts a little more than 90s, so using big CD for first {R_AOE} is okay, as it will be available for the end  
+SCH NOTE: aetherflow right before phase, you can use up all 3 stacks & have an aetherflow for sacred soil for Ultimate.*
 
 ## Phase 3
 {R_AOE} `Halo`
@@ -41,12 +42,16 @@ After crystals destroyed: massive {R_AOE} (99% meter = 25k dmg)
    * get behind boss for `Hero's Glory`
    * get behind middle crystal for wave dodging
    * for last wave (+ another `Hero's Glory`): get **crystal behind boss**
+   * {R_AOE} right after
+
 
 ## Phase 4
-repeat of mechanics from <a>Phase 1</a> + others:
+repeat of mechanics from <a href="#Phase 1">Phase 1</a> + others:
 * {TB} `Hero's Sundering`
-* `Parhelion`: Get between 1st and 2nd chakram throw. {Healer 1} stacks in middle & {Healer 2} stacks far on edge. After **Water** run into 1st chakram throw line.
-* *(immediately after)* `Aureole`
+* `Parhelion`: Get between 1st and 2nd chakram throw. {Healer 1} stacks in middle & {Healer 2} stacks far on edge. After **Water** run into 1st chakram throw line.  
+__*(immediately after)*__ 
+* `Aureole`
+
 
 ## Phase 5
 ### Lightwave 2
@@ -55,5 +60,5 @@ repeat of mechanics from <a>Phase 1</a> + others:
 3. {Spread} everyone but tank should spread.
 4. {TB_Shared} tanks should stack together.
 5. 4 light waves: **CENTER is safe**
-phase repeats before enrage
+phase repeats before enrage  
 if {LHP_Stack}`Water Crystallize` + `Shining Saber` => `Shining Saber` will hit first.

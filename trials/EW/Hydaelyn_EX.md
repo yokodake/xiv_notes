@@ -28,6 +28,7 @@ small {R_AOE} at beginning + big {R_AOE} at end
 * **dps** should destroy shining crystals first
 * **healers** beware dmg on tank is high
 After crystals destroyed: massive {R_AOE} (99% meter = 25k dmg)  
+
 *NOTE: the phase lasts a little more than 90s, so using big CD for first {R_AOE} is okay, as it will be available for the end  
 SCH NOTE: aetherflow right before phase, you can use up all 3 stacks & have an aetherflow for sacred soil for Ultimate.*
 
